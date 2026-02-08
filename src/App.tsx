@@ -1,10 +1,10 @@
-import MainPage from "../src/pages/MainPage";
+import './index.css'
 function App() {
 
 
   return (
     <>
-      <MainPage/>
+      
     </>
   )
 }
